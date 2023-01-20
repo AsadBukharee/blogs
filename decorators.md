@@ -1,17 +1,3 @@
----
-title: 'Cloud Computing'
-coverImage: 'https://firebasestorage.googleapis.com/v0/b/the-accessable-agency.appspot.com/o/assets%2Fposts%2Fhaha2663_artificial_intelligence_and_machine_learning_a9064c6d-a7a8-4010-b30c-5ed640511fab.png?alt=media&token=aeae3f4d-1785-4a75-9c4c-6799e3475fb2'
-date: '2022-12-27'
-type: 'blog-post'
-author:
-    name: Hasnain Haider
-    picture: 'https://firebasestorage.googleapis.com/v0/b/the-accessable-agency.appspot.com/o/assets%2Flogo%2FJust%20logo.svg?alt=media&token=bc318c06-6374-4f40-8d44-5979da7b715a'
-ogImage:
-    url: 'https://firebasestorage.googleapis.com/v0/b/the-accessable-agency.appspot.com/o/assets%2Fposts%2Fhaha2663_artificial_intelligence_and_machine_learning_a9064c6d-a7a8-4010-b30c-5ed640511fab.png?alt=media&token=aeae3f4d-1785-4a75-9c4c-6799e3475fb2'
-excerpt: Artificial intelligence (AI) is a rapidly advancing field that aims to create intelligent machines that can think
----
-
-
 # Introduction
 
 Python decorators are a powerful tool that can be used to modify or enhance the functionality of existing functions. These decorators are used to add extra functionality to functions, such as adding logging, or caching. In this blog post, we will be exploring the various applications of Python decorators, the motivations behind using them, and some useful examples of their implementation. 
